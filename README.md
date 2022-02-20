@@ -1,4 +1,4 @@
-These are some of the projects done as part of MS in Applied Cognition and Neuroscience at UT Dallas (2019-2022)
+This is a sample of some of the projects done as part of MS in Applied Cognition and Neuroscience at UT Dallas (2019-2022)
 
 1) Designed and implemented modified RegnetX networks. Trained and tested the networks on reduced ImageNet dataset (120K images, 100 classes)
 This is an individual project based on this paper: https://arxiv.org/pdf/2003.13678.pdf
